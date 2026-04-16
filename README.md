@@ -1,5 +1,5 @@
 ## Hi there! I'm [Priyanka Sankpal] 👋
-![image alt](https://github.com/priyanka-sankpal/Priyanka-Sankpal/blob/2bef4846f4d617ec872c059d889180c33fe9c9d4/Screenshot_2021-05-17-22-52-12-028_com.miui.gallery~2%20(1).jpg)
+
 ### 📊 Data Analytics Intern at AI Variant
 I am a passionate Data Analyst focused on turning complex data into actionable business stories. Currently, I'm honing my skills in automated reporting and predictive insights during my internship at **AI Variant**.
 
